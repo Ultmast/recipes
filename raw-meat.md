@@ -1,7 +1,9 @@
 # Raw Meat
 
 ## Ingredients
-* Chunk of animal
+* Chunk of cow
+* Chunk of pig
+* Leg of lamb
 * Half a chicken
 
 ## Steps
