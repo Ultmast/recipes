@@ -14,4 +14,5 @@
 
 ## Instructions
 
-Squeeze all liquid from chopped spinach. Sauté onions in butter and mix with remaining ingredients.
+1. Squeeze all liquid from chopped spinach.
+2. Sauté onions in butter and mix with remaining ingredients.
