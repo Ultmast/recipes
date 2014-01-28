@@ -4,5 +4,3 @@
 * Chunk of animal
 
 ## Steps
-* Slice
-* Serve
