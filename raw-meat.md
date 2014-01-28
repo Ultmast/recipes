@@ -1,7 +1,7 @@
 # Raw Meat
 
 ## Ingredients
-* Chunk of animal carcass
+* Chunk of animal
 
 ## Steps
 * Slice
