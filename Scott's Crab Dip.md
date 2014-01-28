@@ -1,4 +1,6 @@
-### Ingredients
+# Spinach and Crab Dip
+
+## Ingredients
 
 * 2 (10 ounce) packages frozen chopped spinach, thawed
 * 1 bunch green onions, thinly sliced
@@ -10,6 +12,6 @@
 * Dash of pepper
 * Dash of Tabasco sauce
 
-### Instructions
+## Instructions
 
 Squeeze all liquid from chopped spinach. Sauté onions in butter and mix with remaining ingredients.
