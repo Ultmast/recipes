@@ -17,3 +17,5 @@
 2. Heat pan, add butter
 3. Sautee mushrooms until brown
 4. Add marsala to mushrooms, reduce to thick sauce
+5. Mix cheese into cooked pasta
+6. Stir in mushrooms with marsala
