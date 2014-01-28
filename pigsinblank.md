@@ -3,6 +3,6 @@
 ## Ingredients
 * Pillsbury Croissant Rolls
 * Little pork wieners
-* Your favorite sauce (I like BBQ!)
+* Your favorite sauce (I like BBQ!!)
 
 ## Steps
